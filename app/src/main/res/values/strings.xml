@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">LOCALIZACIÓN</string>
+    <string name="latitud"> latitud</string>
+    <string name="longitud">longitud</string>
+    <string name="parar_actualizaciones">parar_actualizaciones</string>
+    <string name="iniciar_actualizaciones">iniciar_actualizaciones</string>
+</resources>
